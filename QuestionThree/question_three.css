@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Form{
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+     */
+}
+h1{
+    text-align: center;
+
+}

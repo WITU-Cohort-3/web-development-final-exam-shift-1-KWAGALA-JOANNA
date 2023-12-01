@@ -1,0 +1,48 @@
+*{
+    background-image: url(../images/baked-quails-pan-dark-surface_2829-5596.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    background-color: black;
+    font-size: 50px;
+    margin-right: 50%;
+
+}
+a:hover{
+    cursor: pointer;
+    color: black;
+}
+a{
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    color: white;
+    text-align: right;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+    
+    margin-right: 150px;
+
+}
+.item1{
+    display: flex;
+    order: 1;
+}
+.item2{
+    display: flex;
+    order: 2;
+}
+.item3{
+    display: flex;
+    order: 3;
+}
+.item4{
+    display: flex;
+    order: 4;
+}

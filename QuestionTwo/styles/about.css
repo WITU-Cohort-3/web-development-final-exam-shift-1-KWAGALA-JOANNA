@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: #fff;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    background-color: black;
+    font-size: 50px;
+    margin-right: 50%;
+
+}
+a:hover{
+    cursor: pointer;
+    color: black;
+}
+a{
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    color: white;
+    text-align: right;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;}
